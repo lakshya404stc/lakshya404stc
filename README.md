@@ -9,22 +9,6 @@ I thrive on solving fintech SaaS problems, having worked with:
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
 
-## 🚀 Key Projects
-- **CI/CD Pipelines**: Built robust pipelines using **Jenkins** and **Azure Pipelines** for automated testing, deployment, and monitoring.
-- **Infrastructure as Code (IaC)**: Automated infrastructure creation with **Terraform** and **Ansible**.
-- **Docker & Kubernetes**: Deployed and managed containerized microservices using **Docker** and **Kubernetes**.
-
-## 🏆 Accomplishments
-- 🔹 Successfully migrated fintech infrastructure for Canadian and UAE-based companies.
-- 🔹 Automated AWS cloud deployments with **Docker**, **Kubernetes**, and **EC2** for high scalability.
-- 🔹 Designed and implemented **CI/CD pipelines** for rapid and error-free deployments.
-
-## 💡 Fintech SaaS Expertise
-Fintech is my playground! I have hands-on experience with:
-- 📊 High-performance trading applications (Tradesoio, GoMarket)
-- 🔄 Automated infrastructure pipelines
-- 💼 Cloud-native financial systems
-
 ## 📫 Contact Me
 Feel free to reach out if you want to collaborate on exciting fintech SaaS or DevOps projects!
 
