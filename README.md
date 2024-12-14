@@ -2,7 +2,7 @@
 
 Hi there! I’m **Lakshya Gupta**, a passionate **DevOps Engineer**, **Backend Developer** and owner of **Easy Pi**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, while creating and deploying scalable applications on **AWS** or other cloud platforms.
 
-I thrive on solving fintech SaaS problems, having worked with:
+I thrive on solving problems and designing complex architectures.
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
 - ☁️ **Canadian fintech** companies focusing on infrastructure migration
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
