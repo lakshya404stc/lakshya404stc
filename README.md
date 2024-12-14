@@ -4,8 +4,7 @@ Hi there! I’m **Lakshya Gupta**, a passionate **DevOps Engineer**, **Backend D
 
 I thrive on solving fintech SaaS problems, having worked with:
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
-- 🇨🇦 **Canadian fintech** companies focusing on infrastructure migration
-- ☁️ **Azure Functions**, **Pipelines**, and automation at scale
+- ☁️ **Canadian fintech** companies focusing on infrastructure migration
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
 
 ## 📫 Contact Me
