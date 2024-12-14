@@ -1,6 +1,6 @@
-# 🚀 Welcome to Lakshya's DevOps Fullstack Repository 🌟
+# 🚀 Welcome to Lakshya's Repository 🌟
 
-Hi there! I’m **Lakshya Gupta**, a passionate **DevOps Engineer** and **Fullstack Developer** and owner of **Easy Pi**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, and deploying scalable applications on **AWS** and **Azure**.
+Hi there! I’m **Lakshya Gupta**, a passionate **DevOps Engineer**, **Backend Developer** and owner of **Easy Pi**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, while creating and deploying scalable applications on **AWS** or other cloud platforms.
 
 I thrive on solving fintech SaaS problems, having worked with:
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
