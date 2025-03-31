@@ -1,4 +1,4 @@
-## 🚀 Lakshya Gupta – DevOps | Backend Engineer
+# 🚀 Lakshya Gupta – DevOps | Backend Engineer
 
 ##
 Hi there! I’m **Lakshya Gupta**, a **DevOps & Backend Engineer** passionate about building scalable architectures, automation, and decentralized systems. I specialize in **cloud infrastructure**, **scalable**, and **fault-tolerant systems**.
