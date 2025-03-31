@@ -13,6 +13,7 @@ Hi there! I’m **Lakshya Gupta**, a **DevOps & Backend Engineer** passionate ab
 - **AI Security Code Auditor** – Open-source tool for deep vulnerability detection in large-scale codebases
 - **Decentralized Agents** – Pioneering AI sovereignty with TEE-powered secure execution environments
 - **Fault-Tolerant Pipelines** – Automated multi-core model training with seamless spot interruption recovery
+  
 
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) |
 |:-----------------------------------:|:------------------------------------:|
