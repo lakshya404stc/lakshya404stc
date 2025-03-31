@@ -1,11 +1,18 @@
-# 🚀 Welcome to Lakshya's Repository 🌟
+## 🚀 Lakshya Gupta – DevOps | Backend Engineer
 
-Hi there! I’m **Lakshya Gupta**, a passionate **DevOps Engineer**, **Backend Developer** and owner of **Easy Pi**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, while creating and deploying scalable applications on **AWS** or other cloud platforms.
+Hi there! I’m **Lakshya Gupta**, a **DevOps & Backend Engineer** passionate about building scalable architectures, automation, and decentralized systems. I specialize in **cloud infrastructure**, **scalable**, and **fault-tolerant systems**.
 
-I thrive on solving problems and designing complex architectures.
-- 🌍 **UAE-based** Tradesoio and GoMarket applications
-- ☁️ **Canadian fintech** companies focusing on infrastructure migration
-- 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
+### 🔹 Skills & Impression
+
+- **Cloud & DevOps** – AWS (EKS, Lambda, S3, CloudFront), Kubernetes, Terraform, Ansible, CI/CD (Jenkins)
+- **Backend Development** – Golang, TypeScript, FastAPI, Flask, WebSockets, Payment Gateways
+- **Bangers** – AI-powered security audits, decentralized AI agents on TEE, automated model training pipelines
+
+### 🌎 Projects & Contributions
+
+- **AI Security Code Auditor** – Open-source tool for deep vulnerability detection in large-scale codebases
+- **Decentralized Agents** – Pioneering AI sovereignty with TEE-powered secure execution environments
+- **Fault-Tolerant Pipelines** – Automated multi-core model training with seamless spot interruption recovery
 
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) |
 |:-----------------------------------:|:------------------------------------:|
