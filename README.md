@@ -16,5 +16,4 @@ Hi there! I’m **Lakshya Gupta**, a **DevOps & Backend Engineer** passionate ab
   
 ##
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|
-|:-----------------------------------:|:------------------------------------:|
-| [LinkedIn](https://www.linkedin.com/in/lakshya-gupta-291645252/) | [GitHub](https://github.com/lakshya404stc) |
+| [LinkedIn](https://www.linkedin.com/in/lakshya-gupta-291645252/) |
