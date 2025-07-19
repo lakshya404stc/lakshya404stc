@@ -27,6 +27,3 @@ Hi there! 👋 I’m **Lakshya Gupta**, a passionate **DevOps & Backend Engineer
 - **Portfolio**: [lakshya-portfolio](https://lakshyag404stc-portfolio.vercel.app/)  
 - **LinkedIn**: [Lakshya Gupta](https://www.linkedin.com/in/lakshya-gupta-291645252)  
 - **GitHub**: [lakshyag404stc@gmail.com](https://github.com/lakshya404stc)
-
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) |
-|:-----------------------------------:|:------------------------------------:|
