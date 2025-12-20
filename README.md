@@ -1,6 +1,6 @@
 # Platform Engineer 🌟
 
-Hi there! 👋 I’m **Lakshya Gupta**, a passionate **DevOps & Backend Engineer** who thrives on crafting scalable, reliable, and high-performance systems. With over 2.6 years of hands-on experience, I specialize in combining **backend development** with **DevOps principles** to solve challenging problems in **fintech SaaS**, **decentralized infra**, and **system design**.
+Hi there! 👋 I’m **Lakshya Gupta**, a passionate **Platform Engineer** who thrives on crafting scalable, reliable, and high-performance systems. With over 3 years of hands-on experience, I specialize in combining **backend development** with **DevOps principles** to solve challenging problems in **fintech SaaS**, **decentralized infra**, and **system design**.
 
 ## 🔥 Passion & Highlights
 - Scaling distributed systems with **Kubernetes** and low-level optimizations.  
