@@ -9,6 +9,6 @@ Hi there! 👋 I’m **Lakshya Gupta**, a passionate **Platform Engineer** who t
 
 ## 🌟 Portfolio & Connect
 
-- **Portfolio**: [lakshya-portfolio](https://lakshyag404stc-portfolio.vercel.app/)  
-- **LinkedIn**: [Lakshya Gupta](https://www.linkedin.com/in/lakshya-gupta-291645252)  
-- **GitHub**: [lakshyag404stc@gmail.com](https://github.com/lakshya404stc)
+- **Portfolio**: [Lakshya Portfolio](https://lakshyag404stc-portfolio.vercel.app/)  
+- **LinkedIn**: [Lakshya LinkedIn](https://www.linkedin.com/in/lakshya-gupta-291645252)  
+- **Resume**: [Lakshya Resume](https://drive.google.com/file/d/1DncK-QFgXG7ytTggIYIbYZ6RnZgFbLLK/view)
