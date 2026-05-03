@@ -4,9 +4,9 @@ Hi there! 👋 I'm **Lakshya Gupta**, a **Platform Engineer** who thrives on bui
 
 ## 🔥 Highlights
 - Scaling platforms to **10,000+ users** with Kubernetes, microservices & cloud-native infra.
-- Cutting infrastructure costs — **40–95% reductions** through smart architecture decisions.
+- Cutting infrastructure costs, **40–95% reductions** through smart architecture decisions.
 - Building **real-time AI pipelines** across 1000+ camera streams with Redis & RabbitMQ.
-- Engineering production-grade tools in **Go** — from distributed filesystems to CI/CD automation.
+- Engineering production-grade tools in **Go**, from distributed filesystems to CI/CD automation.
 
 ## 🌟 Portfolio & Connect
 - **Portfolio**: [Lakshya Portfolio](https://lakshyag404stc-portfolio.vercel.app/)
